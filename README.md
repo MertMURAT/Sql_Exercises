@@ -1,3 +1,3 @@
 # Sql_Examples
 
-[https://app.patika.dev/yolkar62]
+[Patika Dev](https://app.patika.dev/yolkar62)
